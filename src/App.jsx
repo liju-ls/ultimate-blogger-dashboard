@@ -1,8 +1,10 @@
+import Dashboard from "./components/Dashboard"
+
 function App() {
 
   return (
     <>
-      <p>dashboard</p>
+      <Dashboard />
     </>
   )
 }
